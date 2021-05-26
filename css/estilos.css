@@ -1,12 +1,12 @@
 body {
     color: #333;
-    text-align: left;
+    text-align: center;
     font-size: 16px;
-    font-family: courier;
+    font-family: Courier;
 }
 #container {
     width: 70%;
-    padding: 1em;
+    padding: 0;
     text-align: left;
     border: 1px solid #000;
     margin: 0 auto;
